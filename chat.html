@@ -28,6 +28,14 @@
                 <i class="fa-solid fa-search"></i>
                 <span>Điểm chuẩn</span>
             </a>
+            <a href="analysis.html" class="nav-pill">
+                <i class="fa-solid fa-chart-line"></i>
+                <span>Phân tích</span>
+            </a>
+            <a href="personalize.html" class="nav-pill">
+                <i class="fa-solid fa-sparkles"></i>
+                <span>Cá nhân hóa</span>
+            </a>
             <a href="career.html" class="nav-pill">
                 <i class="fa-solid fa-compass"></i>
                 <span>Hướng nghiệp</span>
@@ -70,13 +78,9 @@
         <div class="chat-input-wrapper">
             <form id="chat-form" class="chat-form">
                 <div class="input-container">
-                    <textarea 
-                        id="chat-input" 
-                        class="chat-input" 
-                        placeholder="Hỏi về điểm chuẩn, ngành học, nghề nghiệp..."
-                        rows="1"
-                        autocomplete="off"
-                    ></textarea>
+                    <textarea id="chat-input" class="chat-input"
+                        placeholder="Hỏi về điểm chuẩn, ngành học, nghề nghiệp..." rows="1"
+                        autocomplete="off"></textarea>
                     <button type="submit" class="send-btn" id="send-btn">
                         <i class="fa-solid fa-arrow-up"></i>
                     </button>
@@ -95,13 +99,13 @@
     <script>
         // Auto-resize textarea
         const textarea = document.getElementById('chat-input');
-        textarea.addEventListener('input', function() {
+        textarea.addEventListener('input', function () {
             this.style.height = 'auto';
             this.style.height = Math.min(this.scrollHeight, 200) + 'px';
         });
 
         // Submit on Enter (Shift+Enter for new line)
-        textarea.addEventListener('keydown', function(e) {
+        textarea.addEventListener('keydown', function (e) {
             if (e.key === 'Enter' && !e.shiftKey) {
                 e.preventDefault();
                 document.getElementById('chat-form').dispatchEvent(new Event('submit'));
