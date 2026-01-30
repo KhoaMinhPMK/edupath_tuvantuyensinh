@@ -1,0 +1,4244 @@
+{
+  "universities": [
+    {
+      "code": "BKA",
+      "name": "Đại học Bách Khoa Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "IT-E10",
+          "name": "Khoa học dữ liệu và Trí tuệ nhân tạo (CT Tiên tiến)",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 29.39,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 86.97,
+              "method": "TSA",
+              "note": "Bài thi đánh giá tư duy"
+            }
+          ]
+        },
+        {
+          "code": "IT1",
+          "name": "Khoa học Máy tính",
+          "quota": 420,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 29.19,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "EE2",
+          "name": "Kỹ thuật Điều khiển - Tự động hoá",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.48,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MS2",
+          "name": "Kỹ thuật Vi điện tử và Công nghệ nano",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.25,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ET1",
+          "name": "Kỹ thuật Điện tử - Viễn thông",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.07,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TROY-BA",
+          "name": "Troy - Quản trị Kinh doanh (Liên kết)",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 19.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NTH",
+      "name": "Đại học Ngoại thương",
+      "type": "Công lập",
+      "location": "Hà Nội, TP.HCM",
+      "majors": [
+        {
+          "code": "FE-TT",
+          "name": "Kinh tế đối ngoại (CT Tiên tiến)",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IB-IHONS",
+          "name": "Kinh doanh quốc tế i-Hons",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IB",
+          "name": "Kinh doanh quốc tế",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CS",
+          "name": "Khoa học máy tính",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 36.40,
+              "method": "THPT",
+              "note": "Hệ số 2 môn Toán, thang 40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KHA",
+      "name": "Đại học Kinh tế Quốc dân",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.61,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ECOM",
+          "name": "Thương mại điện tử",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.83,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MKT",
+          "name": "Marketing",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.18,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "YHN",
+      "name": "Đại học Y Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "PSY",
+          "name": "Tâm lý học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.70,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 500,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 28.13,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "DENT",
+          "name": "Răng Hàm Mặt",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 27.34,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NURSE",
+          "name": "Điều dưỡng (Thanh Hóa)",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TMA",
+      "name": "Đại học Thương mại",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.80,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "DM",
+          "name": "Marketing số",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ECOM",
+          "name": "Thương mại điện tử",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.30,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA-FR",
+          "name": "Quản trị kinh doanh (Tiếng Pháp TM)",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NHH",
+      "name": "Học viện Ngân hàng",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "IB",
+          "name": "Kinh doanh quốc tế",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.97,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FIN",
+          "name": "Tài chính",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BANK",
+          "name": "Ngân hàng",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.30,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTC",
+      "name": "Học viện Tài chính",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "AUD",
+          "name": "Kiểm toán",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.60,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MKT",
+          "name": "Marketing",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FIN",
+          "name": "Tài chính - Ngân hàng",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PTIT",
+      "name": "Học viện Công nghệ Bưu chính Viễn thông",
+      "type": "Công lập",
+      "location": "Hà Nội, TP.HCM",
+      "majors": [
+        {
+          "code": "DS",
+          "name": "Khoa học máy tính (Khoa học dữ liệu)",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.21,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "EE",
+          "name": "Kỹ thuật Điều khiển và tự động hóa",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.19,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 500,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.80,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ACC-CLC",
+          "name": "Kế toán (CLC)",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 21.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "XDA",
+      "name": "Đại học Xây dựng Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "EE",
+          "name": "Kỹ thuật điều khiển và tự động hóa",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Máy tính và CNTT",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.60,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "DS",
+          "name": "Khoa học dữ liệu",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CE",
+          "name": "Kỹ thuật xây dựng",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.90,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TLA",
+      "name": "Đại học Thủy lợi",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "LAW-E",
+          "name": "Luật Kinh tế",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CHN",
+          "name": "Ngôn ngữ Trung",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.45,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SPH",
+      "name": "Đại học Sư phạm Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "SP-HIST",
+          "name": "Sư phạm Lịch sử",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 29.06,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-POL",
+          "name": "Giáo dục chính trị",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-MATH",
+          "name": "Sư phạm Toán học",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.30,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BIO",
+          "name": "Sinh học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 19.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SP2",
+      "name": "Đại học Sư phạm Hà Nội 2",
+      "type": "Công lập",
+      "location": "Vĩnh Phúc",
+      "majors": [
+        {
+          "code": "SP-LIT",
+          "name": "Sư phạm Ngữ văn",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.52,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-HIST",
+          "name": "Sư phạm Lịch sử",
+          "quota": 120,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.31,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-HISTGEO",
+          "name": "Sư phạm Lịch sử - Địa lý",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.03,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PE",
+          "name": "Quản lý TDTT",
+          "quota": 60,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "T00",
+              "score": 20.25,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NGD",
+      "name": "Học viện Ngoại giao",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "CHN-ST",
+          "name": "Trung Quốc học",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.09,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IR",
+          "name": "Quan hệ Quốc tế",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ENG",
+          "name": "Ngôn ngữ Anh",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.30,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "USA",
+          "name": "Hoa Kỳ học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.17,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "GHA",
+      "name": "Đại học Giao thông Vận tải",
+      "type": "Công lập",
+      "location": "Hà Nội, TP.HCM",
+      "majors": [
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.52,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LOG-HCM",
+          "name": "Logistics (TP.HCM)",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.38,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CE-HCM",
+          "name": "Quản lý đô thị (TP.HCM)",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.06,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "UTT",
+      "name": "Đại học Công nghệ Giao thông Vận tải",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CHIP",
+          "name": "Công nghệ kỹ thuật vi mạch bán dẫn",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LAW",
+          "name": "Luật",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "LPH",
+      "name": "Đại học Luật Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "LAW-E",
+          "name": "Luật Kinh tế",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.55,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LAW",
+          "name": "Luật",
+          "quota": 500,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LAW-DL",
+          "name": "Luật (Đắk Lắk)",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 19.75,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AJC",
+      "name": "Học viện Báo chí và Tuyên truyền",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "ECO",
+          "name": "Kinh tế (Quản lý kinh tế)",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.08,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MC-INT",
+          "name": "Truyền thông quốc tế",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "X78",
+              "score": 37.50,
+              "method": "THPT",
+              "note": "Thang 40, hệ số 2"
+            }
+          ]
+        },
+        {
+          "code": "SOC",
+          "name": "Chủ nghĩa xã hội khoa học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.96,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "MDA",
+      "name": "Đại học Mỏ - Địa chất",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "CHN",
+          "name": "Ngôn ngữ Trung Quốc",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "EE",
+          "name": "Kỹ thuật điều khiển và tự động hóa",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.20,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "GEOL",
+          "name": "Địa chất học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HANU",
+      "name": "Đại học Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "CHN",
+          "name": "Ngôn ngữ Trung Quốc",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 34.35,
+              "method": "THPT",
+              "note": "Thang 40 điểm"
+            }
+          ]
+        },
+        {
+          "code": "KOR",
+          "name": "Ngôn ngữ Hàn Quốc",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 33.00,
+              "method": "THPT",
+              "note": "Thang 40 điểm"
+            }
+          ]
+        },
+        {
+          "code": "ITA",
+          "name": "Ngôn ngữ Italy",
+          "quota": 50,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.10,
+              "method": "THPT",
+              "note": "Thang 40 điểm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NAPA",
+      "name": "Học viện Hành chính và Quản trị công",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "TOUR",
+          "name": "Quản trị dịch vụ du lịch và lữ hành",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.40,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IS",
+          "name": "Hệ thống thông tin",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 19.75,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-UET",
+      "name": "ĐH Công nghệ - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 500,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.19,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-EDU",
+      "name": "ĐH Giáo dục - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "SP-HISTGEO",
+          "name": "Sư phạm Lịch sử - Địa lý",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 29.84,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-BIO",
+          "name": "Sư phạm Sinh học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.37,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-USSH",
+      "name": "ĐH KHXH&NV - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "KOR",
+          "name": "Hàn Quốc học",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 29.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-MED",
+      "name": "ĐH Y Dược - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 27.43,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "DENT",
+          "name": "Răng hàm mặt",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.99,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-HUS",
+      "name": "ĐH Khoa học Tự nhiên - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "CS",
+          "name": "Khoa học máy tính",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-LAW",
+      "name": "ĐH Luật - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "LAW-E",
+          "name": "Luật Kinh tế",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.20,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LAW",
+          "name": "Luật",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.72,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-ULIS",
+      "name": "ĐH Ngoại ngữ - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "SP-ENG",
+          "name": "Sư phạm Tiếng Anh",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 30.00,
+              "method": "THPT",
+              "note": "Kịch trần"
+            }
+          ]
+        },
+        {
+          "code": "SP-CHN",
+          "name": "Sư phạm Tiếng Trung",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 30.00,
+              "method": "THPT",
+              "note": "Kịch trần"
+            }
+          ]
+        },
+        {
+          "code": "FIN",
+          "name": "Kinh tế - Tài chính",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VJU",
+      "name": "ĐH Việt Nhật - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "JPN",
+          "name": "Nhật Bản học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CHIP",
+          "name": "Công nghệ kỹ thuật Chip bán dẫn",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 21.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CS",
+          "name": "Khoa học và Kỹ thuật máy tính",
+          "quota": 120,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 20.75,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "AUTO",
+          "name": "Điều khiển thông minh và Tự động hóa",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 20.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "QHI-SIS",
+      "name": "Trường Khoa học liên ngành và Nghệ thuật - ĐHQGHN",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "HER",
+          "name": "Quản trị tài nguyên di sản",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.38,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MC",
+          "name": "Công nghệ truyền thông",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "GRAPH",
+          "name": "Đồ họa và công nghệ số",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.41,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "DHU",
+      "name": "Đại học Huế",
+      "type": "Công lập",
+      "location": "Thừa Thiên Huế",
+      "majors": [
+        {
+          "code": "SP-ENG",
+          "name": "Sư phạm Tiếng Anh",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 30.00,
+              "method": "THPT",
+              "note": "Điểm Anh ≥9.5, Văn ≥8.5"
+            }
+          ]
+        },
+        {
+          "code": "SP-CHN",
+          "name": "Sư phạm Tiếng Trung",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 30.00,
+              "method": "THPT",
+              "note": "Điểm NN = 10"
+            }
+          ]
+        },
+        {
+          "code": "SP-LIT",
+          "name": "Sư phạm Ngữ văn",
+          "quota": 120,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.90,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-GEO",
+          "name": "Sư phạm Địa lý",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 27.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "DMS",
+      "name": "Đại học Tài chính - Marketing",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "ECO",
+          "name": "Kinh tế",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.63,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MKT",
+          "name": "Marketing",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "REAL",
+          "name": "Bất động sản",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.10,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "YDS",
+      "name": "Đại học Y Dược TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 500,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 27.34,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "DENT",
+          "name": "Răng hàm mặt",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.46,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PH",
+          "name": "Y tế công cộng",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "UIT",
+      "name": "ĐH Công nghệ thông tin - ĐHQG TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "AI",
+          "name": "Trí tuệ nhân tạo",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 29.60,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CS",
+          "name": "Khoa học máy tính",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SE",
+          "name": "Kỹ thuật phần mềm",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IS",
+          "name": "Hệ thống thông tin",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TCT",
+      "name": "Đại học Cần Thơ",
+      "type": "Công lập",
+      "location": "Cần Thơ",
+      "majors": [
+        {
+          "code": "SP-HIST",
+          "name": "Sư phạm Lịch sử",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.61,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-GEO",
+          "name": "Sư phạm Địa lý",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.46,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-LIT",
+          "name": "Sư phạm Ngữ văn",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 28.23,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "YTB",
+      "name": "Đại học Y Dược Thái Bình",
+      "type": "Công lập",
+      "location": "Thái Bình",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 500,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PHAR",
+          "name": "Dược học",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HDMC",
+      "name": "Đại học Kỹ thuật Y tế Hải Dương",
+      "type": "Công lập",
+      "location": "Hải Dương",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.80,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "REHAB",
+          "name": "Kỹ thuật phục hồi chức năng",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FPT",
+      "name": "Đại học FPT",
+      "type": "Tư thục",
+      "location": "Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ",
+      "majors": [
+        {
+          "code": "AI",
+          "name": "Trí tuệ nhân tạo",
+          "quota": 500,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SE",
+          "name": "Kỹ thuật phần mềm",
+          "quota": 2000,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA",
+          "name": "Quản trị Kinh doanh",
+          "quota": 800,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PKA",
+      "name": "Đại học Phenikaa",
+      "type": "Tư thục",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "MECH-E",
+          "name": "Hệ thống cơ điện tử thông minh (Tiếng Anh)",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "DENT",
+          "name": "Răng Hàm Mặt",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VLU",
+      "name": "Đại học Văn Lang",
+      "type": "Tư thục",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ARCH",
+          "name": "Kiến trúc",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "V00",
+              "score": 19.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NTT",
+      "name": "Đại học Nguyễn Tất Thành",
+      "type": "Tư thục",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 650,
+              "method": "ĐGNL",
+              "note": "ĐHQG TP.HCM"
+            }
+          ]
+        },
+        {
+          "code": "DENT",
+          "name": "Răng Hàm Mặt",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PHAR",
+          "name": "Dược học",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 19.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HIU",
+      "name": "Đại học Quốc tế Hồng Bàng",
+      "type": "Tư thục",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "DENT",
+          "name": "Răng Hàm Mặt",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PHAR",
+          "name": "Dược học",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 19.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HSU",
+      "name": "Đại học Hoa Sen",
+      "type": "Tư thục",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "SPORT-ECO",
+          "name": "Kinh tế thể thao",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FINTECH",
+          "name": "Công nghệ tài chính",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SIU",
+      "name": "Đại học Quốc tế Sài Gòn",
+      "type": "Tư thục",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "BA",
+          "name": "Quản trị kinh doanh",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 18.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 600,
+              "method": "ĐGNL",
+              "note": "ĐHQG TP.HCM"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ARMY-MED",
+      "name": "Học viện Quân y",
+      "type": "Quân đội",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "MD-F-N",
+          "name": "Y khoa (Nữ phía Bắc)",
+          "quota": 20,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 30.00,
+              "method": "THPT",
+              "note": "Đã tính điểm ưu tiên"
+            }
+          ]
+        },
+        {
+          "code": "MD-F-S",
+          "name": "Y khoa (Nữ phía Nam)",
+          "quota": 20,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 29.03,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ARMY-SCI",
+      "name": "Học viện Khoa học Quân sự",
+      "type": "Quân đội",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "IR-F",
+          "name": "Quan hệ quốc tế (Nữ)",
+          "quota": 10,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 30.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VWU",
+      "name": "Học viện Phụ nữ Việt Nam",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "MC",
+          "name": "Truyền thông đa phương tiện",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PSY",
+          "name": "Tâm lý học",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "GEN",
+          "name": "Giới và phát triển",
+          "quota": 60,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "UAIC",
+      "name": "Đại học Mỹ thuật Công nghiệp",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "GRAPH",
+          "name": "Thiết kế đồ họa",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "H00",
+              "score": 24.26,
+              "method": "Năng khiếu",
+              "note": "Học bạ + Năng khiếu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "DAU",
+      "name": "Đại học Kiến trúc Đà Nẵng",
+      "type": "Công lập",
+      "location": "Đà Nẵng",
+      "majors": [
+        {
+          "code": "GRAPH",
+          "name": "Thiết kế đồ họa",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "V00",
+              "score": 18.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ARCH",
+          "name": "Kiến trúc",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "V00",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VAA",
+      "name": "Học viện Hàng không Việt Nam",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "ATM-E",
+          "name": "Quản lý hoạt động bay (Tiếng Anh)",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LOG",
+          "name": "Logistics hàng không",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CE",
+          "name": "Công nghệ kỹ thuật xây dựng",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 20.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HLU",
+      "name": "Đại học Hạ Long",
+      "type": "Công lập",
+      "location": "Quảng Ninh",
+      "majors": [
+        {
+          "code": "SP-ENG",
+          "name": "Sư phạm Tiếng Anh",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.32,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-MATH",
+          "name": "Sư phạm Toán học",
+          "quota": 60,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 23.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUFLIT",
+      "name": "Đại học Ngoại ngữ - Tin học TP.HCM",
+      "type": "Tư thục",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "ENG",
+          "name": "Ngôn ngữ Anh",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 17.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 17.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D15",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CHN",
+          "name": "Ngôn ngữ Trung Quốc",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 17.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D04",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MKT",
+          "name": "Marketing",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 17.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 17.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 15.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IUH",
+      "name": "Đại học Công nghiệp TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MKT",
+          "name": "Marketing",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 23.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "EE",
+          "name": "Kỹ thuật Điện - Điện tử",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 21.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ME",
+          "name": "Kỹ thuật Cơ khí",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 20.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUIT",
+      "name": "Đại học Công thương TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IB",
+          "name": "Kinh doanh quốc tế",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 23.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FOOD",
+          "name": "Công nghệ thực phẩm",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SEC",
+          "name": "An toàn thông tin",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HCMUTE",
+      "name": "Đại học Sư phạm Kỹ thuật TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "SP-ENG",
+          "name": "Sư phạm Tiếng Anh",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 28.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ME",
+          "name": "Kỹ thuật Cơ khí",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HCMUS",
+      "name": "ĐH Khoa học Tự nhiên - ĐHQG TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "CS-TT",
+          "name": "Khoa học máy tính (Tiên tiến)",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 29.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 29.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CHEM",
+          "name": "Hóa học",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BIO",
+          "name": "Sinh học",
+          "quota": 120,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HCMUT",
+      "name": "ĐH Bách Khoa - ĐHQG TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "CS",
+          "name": "Khoa học Máy tính",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "EE",
+          "name": "Kỹ thuật Điện - Điện tử",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ME",
+          "name": "Kỹ thuật Cơ khí",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CE",
+          "name": "Kỹ thuật Xây dựng",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "USSH-HCM",
+      "name": "ĐH KHXH&NV - ĐHQG TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "KOR",
+          "name": "Hàn Quốc học",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 27.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "JOUR",
+          "name": "Báo chí",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 27.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ENG",
+          "name": "Ngôn ngữ Anh",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 26.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D15",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HIST",
+          "name": "Lịch sử",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HCMULAW",
+      "name": "Đại học Luật TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "LAW-INT",
+          "name": "Luật thương mại quốc tế",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "X78",
+              "score": 25.65,
+              "method": "THPT",
+              "note": "Văn + Anh + GDKTPL"
+            },
+            {
+              "year": 2025,
+              "block": "X01",
+              "score": 25.35,
+              "method": "THPT",
+              "note": "Toán + Văn + GDKTPL"
+            }
+          ]
+        },
+        {
+          "code": "LAW-E",
+          "name": "Luật Kinh tế",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 25.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LAW",
+          "name": "Luật",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "UEH",
+      "name": "Đại học Kinh tế TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "MKT",
+          "name": "Marketing",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA",
+          "name": "Quản trị Kinh doanh",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FIN",
+          "name": "Tài chính - Ngân hàng",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ACC",
+          "name": "Kế toán",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "OPU",
+      "name": "Đại học Mở Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "ENG",
+          "name": "Ngôn ngữ Anh",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 24.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LAW",
+          "name": "Luật",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA",
+          "name": "Quản trị Kinh doanh",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 21.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 21.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "DND",
+      "name": "Đại học Đà Nẵng",
+      "type": "Công lập",
+      "location": "Đà Nẵng",
+      "majors": [
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 350,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA",
+          "name": "Quản trị Kinh doanh",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TOUR",
+          "name": "Quản trị Du lịch",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 23.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ENG",
+          "name": "Ngôn ngữ Anh",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SPKT",
+      "name": "Đại học Sư phạm Kỹ thuật Hưng Yên",
+      "type": "Công lập",
+      "location": "Hưng Yên",
+      "majors": [
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 21.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ME",
+          "name": "Công nghệ Kỹ thuật Cơ khí",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 18.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 17.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-ME",
+          "name": "Sư phạm Kỹ thuật Công nghiệp",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 20.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TNU",
+      "name": "Đại học Thái Nguyên",
+      "type": "Công lập",
+      "location": "Thái Nguyên",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PHAR",
+          "name": "Dược học",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.50,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "SP-MATH",
+          "name": "Sư phạm Toán học",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 21.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VNUA",
+      "name": "Học viện Nông nghiệp Việt Nam",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "VET",
+          "name": "Thú y",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "AGRI",
+          "name": "Nông học",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 19.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FOOD",
+          "name": "Công nghệ thực phẩm",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BIO",
+          "name": "Công nghệ sinh học",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 21.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HCMUAF",
+      "name": "Đại học Nông Lâm TP.HCM",
+      "type": "Công lập",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "VET",
+          "name": "Thú y",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BIO",
+          "name": "Công nghệ sinh học",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ENV",
+          "name": "Khoa học Môi trường",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 19.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NTU",
+      "name": "Đại học Nha Trang",
+      "type": "Công lập",
+      "location": "Khánh Hòa",
+      "majors": [
+        {
+          "code": "AQUA",
+          "name": "Nuôi trồng thủy sản",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FOOD",
+          "name": "Công nghệ chế biến thủy sản",
+          "quota": 120,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 19.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 18.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TOUR",
+          "name": "Du lịch",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 21.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VNF",
+      "name": "Đại học Lâm nghiệp",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "FOREST",
+          "name": "Lâm học",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 18.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "INTD",
+          "name": "Thiết kế nội thất",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "V00",
+              "score": 20.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "H00",
+              "score": 19.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA",
+          "name": "Quản trị Kinh doanh",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 19.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 18.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VMA",
+      "name": "Đại học Hàng hải Việt Nam",
+      "type": "Công lập",
+      "location": "Hải Phòng",
+      "majors": [
+        {
+          "code": "NAV",
+          "name": "Điều khiển tàu biển",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 21.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "LOG",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ME",
+          "name": "Kỹ thuật Cơ khí",
+          "quota": 250,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 18.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 17.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VTC",
+      "name": "Đại học Văn hóa Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "LIB",
+          "name": "Thư viện - Thông tin",
+          "quota": 80,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 22.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 21.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TOUR",
+          "name": "Quản lý văn hóa",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 23.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MUSIC",
+          "name": "Âm nhạc",
+          "quota": 60,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 20.00,
+              "method": "Năng khiếu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "VNUART",
+      "name": "Đại học Mỹ thuật Việt Nam",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "PAINT",
+          "name": "Hội họa",
+          "quota": 50,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "H00",
+              "score": 22.00,
+              "method": "Năng khiếu"
+            }
+          ]
+        },
+        {
+          "code": "SCULP",
+          "name": "Điêu khắc",
+          "quota": 30,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "H00",
+              "score": 20.00,
+              "method": "Năng khiếu"
+            }
+          ]
+        },
+        {
+          "code": "GRAPH",
+          "name": "Đồ họa",
+          "quota": 40,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "H00",
+              "score": 23.00,
+              "method": "Năng khiếu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSAC",
+      "name": "Học viện Âm nhạc Quốc gia Việt Nam",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "PIANO",
+          "name": "Piano",
+          "quota": 30,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 25.00,
+              "method": "Năng khiếu"
+            }
+          ]
+        },
+        {
+          "code": "VIOLIN",
+          "name": "Violin",
+          "quota": 20,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 24.00,
+              "method": "Năng khiếu"
+            }
+          ]
+        },
+        {
+          "code": "VOCAL",
+          "name": "Thanh nhạc",
+          "quota": 40,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 23.00,
+              "method": "Năng khiếu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TDTT",
+      "name": "Đại học Thể dục Thể thao Bắc Ninh",
+      "type": "Công lập",
+      "location": "Bắc Ninh",
+      "majors": [
+        {
+          "code": "PE",
+          "name": "Giáo dục Thể chất",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "T00",
+              "score": 22.00,
+              "method": "THPT + Năng khiếu"
+            }
+          ]
+        },
+        {
+          "code": "SPORT",
+          "name": "Huấn luyện Thể thao",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "T00",
+              "score": 20.00,
+              "method": "THPT + Năng khiếu"
+            }
+          ]
+        },
+        {
+          "code": "MGMT",
+          "name": "Quản lý TDTT",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "T00",
+              "score": 18.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ARMY-ENG",
+      "name": "Học viện Kỹ thuật Quân sự",
+      "type": "Quân đội",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CHIP",
+          "name": "Công nghệ Vi mạch bán dẫn",
+          "quota": 50,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "EE",
+          "name": "Kỹ thuật Điện tử",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ANV",
+      "name": "Học viện An ninh Nhân dân",
+      "type": "Công an",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "SEC",
+          "name": "Nghiệp vụ An ninh",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 27.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT-SEC",
+          "name": "An ninh mạng",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HPC",
+      "name": "Học viện Cảnh sát Nhân dân",
+      "type": "Công an",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "POL",
+          "name": "Nghiệp vụ Cảnh sát",
+          "quota": 400,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT-FOR",
+          "name": "Kỹ thuật hình sự",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.50,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "DDU",
+      "name": "Đại học Đại Nam",
+      "type": "Tư thục",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PHAR",
+          "name": "Dược học",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 19.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 18.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA",
+          "name": "Quản trị Kinh doanh",
+          "quota": 300,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 15.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TDU",
+      "name": "Đại học Thành Đô",
+      "type": "Tư thục",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "PHAR",
+          "name": "Dược học",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 19.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 18.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 16.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 16.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "ENG",
+          "name": "Ngôn ngữ Anh",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 16.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "GDU",
+      "name": "Đại học Gia Định",
+      "type": "Tư thục",
+      "location": "TP.HCM",
+      "majors": [
+        {
+          "code": "DENT",
+          "name": "Răng Hàm Mặt",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "MKT",
+          "name": "Marketing",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 17.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 16.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "IT",
+          "name": "Công nghệ thông tin",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TTU",
+      "name": "Đại học Tân Tạo",
+      "type": "Tư thục",
+      "location": "Long An",
+      "majors": [
+        {
+          "code": "MD",
+          "name": "Y khoa",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 20.50,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NURSE",
+          "name": "Điều dưỡng",
+          "quota": 100,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 17.00,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BA",
+          "name": "Quản trị Kinh doanh",
+          "quota": 150,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 15.00,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 15.00,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
