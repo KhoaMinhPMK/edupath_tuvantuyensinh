@@ -240,6 +240,301 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "BKA-7",
+          "name": "Khoa học dữ liệu và Trí tuệ nhân tạo",
+          "quota": 224,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 29.52,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 29.51,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 29.48,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 29.32,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D90",
+              "score": 29.51,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-8",
+          "name": "Kỹ thuật phần mềm",
+          "quota": 199,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.39,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.46,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.51,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-9",
+          "name": "Công nghệ thông tin",
+          "quota": 249,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.45,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.3,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.33,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-10",
+          "name": "Kỹ thuật Điện",
+          "quota": 211,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.77,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.94,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-11",
+          "name": "Kỹ thuật Cơ điện tử",
+          "quota": 77,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.84,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.88,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-12",
+          "name": "Kỹ thuật Cơ khí",
+          "quota": 133,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.94,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.82,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-13",
+          "name": "Kỹ thuật Ô tô",
+          "quota": 72,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.37,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.33,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-14",
+          "name": "Kỹ thuật Hàng không",
+          "quota": 180,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.17,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.26,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-15",
+          "name": "Kỹ thuật Hóa học",
+          "quota": 128,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.37,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.38,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 26.6,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-16",
+          "name": "Công nghệ Sinh học",
+          "quota": 69,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.11,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.33,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 26.27,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-17",
+          "name": "Công nghệ Thực phẩm",
+          "quota": 104,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.85,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.7,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 25.82,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-18",
+          "name": "Kiến trúc",
+          "quota": 141,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "V00",
+              "score": 25.57,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "V01",
+              "score": 25.36,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "BKA-19",
+          "name": "Kỹ thuật Xây dựng",
+          "quota": 58,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.03,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.15,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -750,6 +1045,206 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "FTU-16",
+          "name": "Kinh tế",
+          "quota": 55,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.32,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.41,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.26,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 28.27,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FTU-17",
+          "name": "Kinh tế quốc tế",
+          "quota": 102,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.5,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.43,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.35,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 28.5,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FTU-18",
+          "name": "Kiểm toán",
+          "quota": 195,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.72,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.9,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.85,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FTU-19",
+          "name": "Luật",
+          "quota": 239,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.5,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 27.59,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.73,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FTU-20",
+          "name": "Luật Thương mại quốc tế",
+          "quota": 138,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.7,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.61,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 27.74,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FTU-21",
+          "name": "Ngôn ngữ Pháp",
+          "quota": 207,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D03",
+              "score": 27.11,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FTU-22",
+          "name": "Khoa học dữ liệu",
+          "quota": 53,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.55,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.42,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 27.38,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FTU-23",
+          "name": "Công nghệ thông tin",
+          "quota": 187,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.17,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.26,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -1147,6 +1642,181 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "NEU-12",
+          "name": "Quan hệ công chúng",
+          "quota": 234,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.07,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.32,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.27,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NEU-13",
+          "name": "Kinh doanh quốc tế",
+          "quota": 207,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.05,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 28.06,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.15,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 28.06,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NEU-14",
+          "name": "Kinh tế quốc tế",
+          "quota": 249,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 28.15,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.92,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 28.13,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 28.02,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NEU-15",
+          "name": "Kiểm toán",
+          "quota": 231,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.54,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.51,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.51,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NEU-16",
+          "name": "Khoa học dữ liệu",
+          "quota": 57,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.79,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.94,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NEU-17",
+          "name": "Bất động sản",
+          "quota": 71,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.67,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.74,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.7,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "NEU-18",
+          "name": "Thống kê kinh tế",
+          "quota": 127,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.65,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.6,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -1183,6 +1853,12 @@
               "year": 2025,
               "block": "D01",
               "score": 27.79,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.37,
               "method": "THPT"
             }
           ]
@@ -1352,6 +2028,58 @@
               "year": 2025,
               "block": "B00",
               "score": 23.39,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "YHN-9",
+          "name": "Kỹ thuật xét nghiệm y học",
+          "quota": 248,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.88,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "YHN-10",
+          "name": "Kỹ thuật phục hồi chức năng",
+          "quota": 126,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.57,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "YHN-11",
+          "name": "Dinh dưỡng",
+          "quota": 194,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 24.04,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "YHN-12",
+          "name": "Y tế công cộng",
+          "quota": 114,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.38,
               "method": "THPT"
             }
           ]
@@ -2284,6 +3012,100 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "HVNH-13",
+          "name": "Kiểm toán",
+          "quota": 222,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.94,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.1,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.95,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVNH-14",
+          "name": "Luật kinh tế",
+          "quota": 187,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.42,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.35,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.21,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVNH-15",
+          "name": "Hệ thống thông tin quản lý",
+          "quota": 151,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.08,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.96,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.08,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVNH-16",
+          "name": "Công nghệ tài chính (Fintech)",
+          "quota": 203,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.99,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.97,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -2647,6 +3469,81 @@
               "year": 2025,
               "block": "D04",
               "score": 22.51,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVTC-11",
+          "name": "Kinh tế",
+          "quota": 88,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.79,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.7,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.86,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVTC-12",
+          "name": "Thuế",
+          "quota": 176,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.45,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.62,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.46,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVTC-13",
+          "name": "Hải quan",
+          "quota": 218,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.23,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.17,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.15,
               "method": "THPT"
             }
           ]
@@ -3068,6 +3965,333 @@
               "year": 2025,
               "block": "D10",
               "score": 24.3,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-12",
+          "name": "Công nghệ thông tin (CLC)",
+          "quota": 221,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.13,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.29,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-13",
+          "name": "An toàn thông tin",
+          "quota": 178,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.11,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.18,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-14",
+          "name": "Báo chí",
+          "quota": 135,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.33,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.24,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.35,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-15",
+          "name": "Marketing",
+          "quota": 244,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.09,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.21,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.06,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-16",
+          "name": "Thương mại điện tử",
+          "quota": 149,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.46,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.33,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.25,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-17",
+          "name": "Truyền thông đa phương tiện",
+          "quota": 160,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.11,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.27,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.11,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-18",
+          "name": "Thiết kế đồ họa",
+          "quota": 148,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.66,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.65,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.8,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-19",
+          "name": "Khoa học dữ liệu",
+          "quota": 98,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.13,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.06,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-20",
+          "name": "Hệ thống thông tin",
+          "quota": 66,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.07,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-21",
+          "name": "Công nghệ Internet vạn vật (IoT)",
+          "quota": 147,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.44,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.45,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-22",
+          "name": "Kỹ thuật Điện tử viễn thông",
+          "quota": 126,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.62,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.66,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-23",
+          "name": "Công nghệ kỹ thuật điện, điện tử",
+          "quota": 121,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.31,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.41,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-24",
+          "name": "Kỹ thuật Robot và Trí tuệ nhân tạo",
+          "quota": 249,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.98,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-25",
+          "name": "Công nghệ tài chính (Fintech)",
+          "quota": 70,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.83,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.65,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.77,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-26",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 83,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.08,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.97,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.95,
               "method": "THPT"
             }
           ]
@@ -3919,6 +5143,157 @@
               "year": 2025,
               "block": "A00",
               "score": 23.16,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE-13",
+          "name": "Sư phạm Vật lý",
+          "quota": 79,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.25,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.07,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE-14",
+          "name": "Sư phạm Hóa học",
+          "quota": 147,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.4,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.65,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 26.62,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE-15",
+          "name": "Sư phạm Sinh học",
+          "quota": 120,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.77,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D08",
+              "score": 25.78,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE-16",
+          "name": "Sư phạm Địa lý",
+          "quota": 74,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 25.95,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D10",
+              "score": 25.76,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D15",
+              "score": 25.7,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE-17",
+          "name": "Sư phạm Tin học",
+          "quota": 204,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.83,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.95,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE-18",
+          "name": "Giáo dục Công dân",
+          "quota": 157,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 25.41,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.6,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE-19",
+          "name": "Tâm lý học giáo dục",
+          "quota": 139,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.59,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.5,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.63,
               "method": "THPT"
             }
           ]
@@ -7353,6 +8728,107 @@
               "year": 2025,
               "block": "D07",
               "score": 23.060997460787533,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UET-13",
+          "name": "Mạng máy tính và truyền thông dữ liệu",
+          "quota": 141,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.92,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.94,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UET-14",
+          "name": "Hệ thống thông tin",
+          "quota": 193,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.36,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.59,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.46,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UET-15",
+          "name": "Kỹ thuật Robot",
+          "quota": 149,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.87,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.83,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UET-16",
+          "name": "Công nghệ kỹ thuật Cơ điện tử",
+          "quota": 60,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.08,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.92,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UET-17",
+          "name": "Vật lý kỹ thuật",
+          "quota": 138,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.38,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.55,
               "method": "THPT"
             }
           ]
@@ -13116,6 +14592,120 @@
               "year": 2025,
               "block": "D04",
               "score": 23.87,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FPT-10",
+          "name": "An toàn thông tin",
+          "quota": 204,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.17,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.41,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FPT-11",
+          "name": "Marketing số",
+          "quota": 244,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.85,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 23.74,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.77,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FPT-12",
+          "name": "Ngôn ngữ Nhật",
+          "quota": 143,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.63,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FPT-13",
+          "name": "Ngôn ngữ Hàn Quốc",
+          "quota": 230,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.36,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FPT-14",
+          "name": "Thiết kế đồ họa",
+          "quota": 144,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.38,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.38,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "H00",
+              "score": 22.45,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "FPT-15",
+          "name": "Truyền thông đa phương tiện",
+          "quota": 157,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.14,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.04,
               "method": "THPT"
             }
           ]
@@ -29164,6 +30754,18 @@
               "block": "R00",
               "score": 21.66,
               "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.23,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.26,
+              "method": "THPT"
             }
           ]
         },
@@ -29360,6 +30962,201 @@
               "year": 2025,
               "block": "D10",
               "score": 23.15,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-17",
+          "name": "Công nghệ thông tin (CLC)",
+          "quota": 205,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.2,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.18,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-18",
+          "name": "Báo chí",
+          "quota": 205,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.47,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.39,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.42,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-19",
+          "name": "Thiết kế đồ họa",
+          "quota": 185,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.69,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.8,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.69,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-20",
+          "name": "Khoa học dữ liệu",
+          "quota": 228,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.2,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.28,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-21",
+          "name": "Công nghệ Internet vạn vật (IoT)",
+          "quota": 112,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.42,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.38,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-22",
+          "name": "Công nghệ kỹ thuật điện, điện tử",
+          "quota": 248,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.39,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.36,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-23",
+          "name": "Kỹ thuật Robot và Trí tuệ nhân tạo",
+          "quota": 205,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.83,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.08,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-24",
+          "name": "Công nghệ tài chính (Fintech)",
+          "quota": 239,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.82,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.66,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.68,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "PTIT-25",
+          "name": "Logistics và Quản lý chuỗi cung ứng",
+          "quota": 129,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.06,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.86,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.07,
               "method": "THPT"
             }
           ]
@@ -30433,6 +32230,56 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "HVTC-13",
+          "name": "Thuế",
+          "quota": 216,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.43,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.38,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.43,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVTC-14",
+          "name": "Hải quan",
+          "quota": 181,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.29,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.32,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.39,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -30931,6 +32778,56 @@
               "year": 2025,
               "block": "D04",
               "score": 23.84,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVNH-14",
+          "name": "Kiểm toán",
+          "quota": 73,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.94,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.98,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.11,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HVNH-15",
+          "name": "Luật kinh tế",
+          "quota": 61,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.42,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.18,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.37,
               "method": "THPT"
             }
           ]
