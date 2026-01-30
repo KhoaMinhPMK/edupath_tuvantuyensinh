@@ -1,7 +1,7 @@
 // Vercel Serverless Function - Proxy cho Groq API
 // API key được lưu trong Vercel Environment Variables, KHÔNG nằm trong code
 
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
     // Chỉ cho phép POST
     if (req.method !== 'POST') {
         return res.status(405).json({ error: 'Method not allowed' });
@@ -9,7 +9,7 @@ export default async function handler(req, res) {
 
     // Lấy API key từ environment variable của Vercel
     const GROQ_API_KEY = process.env.GROQ_API_KEY;
-    
+
     if (!GROQ_API_KEY) {
         return res.status(500).json({ error: 'API key not configured' });
     }
