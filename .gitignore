@@ -35,3 +35,5 @@ docs/*.toc
 docs/*.synctex.gz
 docs/*.fdb_latexmk
 docs/*.fls
+.vercel
+.env*.local
