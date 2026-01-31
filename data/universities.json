@@ -2691,6 +2691,137 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "TMU-19",
+          "name": "Thương mại quốc tế",
+          "quota": 111,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.58,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.51,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.53,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 27.45,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TMU-20",
+          "name": "Quản trị thương hiệu",
+          "quota": 239,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.88,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.97,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.93,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TMU-21",
+          "name": "Quản trị chuỗi cung ứng",
+          "quota": 126,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.34,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.26,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.17,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TMU-22",
+          "name": "Kinh tế số",
+          "quota": 227,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.19,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.32,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.26,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "TMU-23",
+          "name": "Luật thương mại quốc tế",
+          "quota": 189,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.42,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.62,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.53,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -6125,6 +6256,189 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "HNUE2-13",
+          "name": "Sư phạm Vật lý",
+          "quota": 119,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.04,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.92,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-14",
+          "name": "Sư phạm Hóa học",
+          "quota": 147,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.53,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.36,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D07",
+              "score": 25.37,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-15",
+          "name": "Sư phạm Sinh học",
+          "quota": 214,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 24.42,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D08",
+              "score": 24.49,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-16",
+          "name": "Sư phạm Địa lý",
+          "quota": 215,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.01,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D10",
+              "score": 24.06,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-17",
+          "name": "Giáo dục Công dân",
+          "quota": 141,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.99,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-18",
+          "name": "Giáo dục Quốc phòng - An ninh",
+          "quota": 209,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 23.49,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.36,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-19",
+          "name": "Tâm lý học giáo dục",
+          "quota": 50,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 25.01,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.1,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-20",
+          "name": "Quản lý giáo dục",
+          "quota": 127,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.4,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.47,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNUE2-21",
+          "name": "Công nghệ thông tin",
+          "quota": 170,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.06,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.03,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.97,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -7512,6 +7826,126 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "UTT-12",
+          "name": "Kỹ thuật điện",
+          "quota": 107,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.39,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 22.49,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UTT-13",
+          "name": "Kỹ thuật điện tử - viễn thông",
+          "quota": 170,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.08,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 22.03,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UTT-14",
+          "name": "Kỹ thuật ô tô",
+          "quota": 221,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.03,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.07,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UTT-15",
+          "name": "Kỹ thuật cơ khí",
+          "quota": 240,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 22.05,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 22.02,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UTT-16",
+          "name": "Kỹ thuật xây dựng công trình giao thông",
+          "quota": 249,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.1,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 23.12,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UTT-17",
+          "name": "Kinh tế vận tải",
+          "quota": 160,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 21.97,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 21.85,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -7783,6 +8217,150 @@
               "year": 2025,
               "block": "D15",
               "score": 26.91,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HLU-9",
+          "name": "Luật Hình sự và Tố tụng hình sự",
+          "quota": 220,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.88,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.93,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.06,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HLU-10",
+          "name": "Luật Dân sự và Tố tụng dân sự",
+          "quota": 52,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.09,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 27.15,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.12,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HLU-11",
+          "name": "Luật Hành chính - Nhà nước",
+          "quota": 58,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.91,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.87,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.9,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HLU-12",
+          "name": "Luật Thương mại",
+          "quota": 149,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.43,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.59,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.61,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HLU-13",
+          "name": "Luật Tài chính - Ngân hàng",
+          "quota": 51,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 27.39,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 27.24,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 27.34,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HLU-14",
+          "name": "Luật Sở hữu trí tuệ",
+          "quota": 211,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.53,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.44,
               "method": "THPT"
             }
           ]
@@ -10246,6 +10824,82 @@
               "method": "THPT"
             }
           ]
+        },
+        {
+          "code": "UED-VNU-12",
+          "name": "Quản lý giáo dục",
+          "quota": 198,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.11,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.93,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UED-VNU-13",
+          "name": "Tâm lý học giáo dục",
+          "quota": 200,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.6,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.49,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UED-VNU-14",
+          "name": "Công nghệ giáo dục",
+          "quota": 239,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.58,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.64,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UED-VNU-15",
+          "name": "Khoa học giáo dục",
+          "quota": 141,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.9,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.06,
+              "method": "THPT"
+            }
+          ]
         }
       ]
     },
@@ -11046,6 +11700,32 @@
               "year": 2025,
               "block": "B00",
               "score": 21.59687108536022,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UMP-VNU-11",
+          "name": "Khúc xạ nhãn khoa",
+          "quota": 124,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 24,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UMP-VNU-12",
+          "name": "Y tế công cộng",
+          "quota": 51,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.96,
               "method": "THPT"
             }
           ]
@@ -14616,6 +15296,175 @@
               "year": 2025,
               "block": "D04",
               "score": 22.23,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UFM-12",
+          "name": "Quản trị marketing",
+          "quota": 209,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.43,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.15,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.27,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UFM-13",
+          "name": "Truyền thông marketing",
+          "quota": 186,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.13,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.85,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UFM-14",
+          "name": "Tài chính doanh nghiệp",
+          "quota": 132,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.68,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.81,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.74,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UFM-15",
+          "name": "Kiểm toán",
+          "quota": 114,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.68,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.89,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.91,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UFM-16",
+          "name": "Kinh doanh quốc tế",
+          "quota": 238,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 26.42,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.4,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.23,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UFM-17",
+          "name": "Thương mại điện tử",
+          "quota": 179,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.91,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 26.01,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.12,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "UFM-18",
+          "name": "Luật kinh tế",
+          "quota": 203,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.08,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.89,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.9,
               "method": "THPT"
             }
           ]
@@ -32436,6 +33285,90 @@
               "year": 2025,
               "block": "D04",
               "score": 23.46,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "VNAM-12",
+          "name": "Guitar",
+          "quota": 179,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 21.43,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "VNAM-13",
+          "name": "Nhạc cụ truyền thống",
+          "quota": 244,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 20.51,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "VNAM-14",
+          "name": "Sáng tác âm nhạc",
+          "quota": 125,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 22.09,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "VNAM-15",
+          "name": "Chỉ huy dàn nhạc",
+          "quota": 245,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 22.39,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "VNAM-16",
+          "name": "Âm nhạc học",
+          "quota": 189,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 19.97,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 20.09,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "VNAM-17",
+          "name": "Sư phạm Âm nhạc",
+          "quota": 123,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "N00",
+              "score": 21.4,
               "method": "THPT"
             }
           ]
