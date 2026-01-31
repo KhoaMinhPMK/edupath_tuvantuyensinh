@@ -44364,6 +44364,594 @@
           ]
         }
       ]
+    },
+    {
+      "code": "HNMU",
+      "name": "Đại học Thủ đô Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "HNMU-1",
+          "name": "Sư phạm Toán học",
+          "quota": 60,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.55,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 25.6,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-2",
+          "name": "Sư phạm Ngữ Văn",
+          "quota": 140,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 25.05,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.13,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-3",
+          "name": "Sư phạm Tiếng Anh",
+          "quota": 195,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.96,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 26.91,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-4",
+          "name": "Giáo dục Tiểu học",
+          "quota": 201,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 26.41,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 26.46,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-5",
+          "name": "Giáo dục Mầm non",
+          "quota": 134,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "M00",
+              "score": 22.56,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "M01",
+              "score": 22.53,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-6",
+          "name": "Công nghệ thông tin",
+          "quota": 91,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.01,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.06,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.94,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-7",
+          "name": "Quản trị kinh doanh",
+          "quota": 101,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.4,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 23.43,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.53,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-8",
+          "name": "Kế toán",
+          "quota": 89,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.08,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 22.93,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.96,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-9",
+          "name": "Ngôn ngữ Anh",
+          "quota": 113,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 25.55,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 25.56,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D15",
+              "score": 25.62,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-10",
+          "name": "Du lịch",
+          "quota": 206,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.86,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D14",
+              "score": 23.03,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HNMU-11",
+          "name": "Việt Nam học",
+          "quota": 120,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 22.45,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.41,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HUHA",
+      "name": "Đại học Nội vụ Hà Nội",
+      "type": "Công lập",
+      "location": "Hà Nội",
+      "majors": [
+        {
+          "code": "HUHA-1",
+          "name": "Quản lý nhà nước",
+          "quota": 167,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.52,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.64,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.5,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HUHA-2",
+          "name": "Quản trị văn phòng",
+          "quota": 111,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.06,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 23.89,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.06,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HUHA-3",
+          "name": "Văn thư - Lưu trữ",
+          "quota": 166,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 22.5,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 22.54,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HUHA-4",
+          "name": "Thông tin - Thư viện",
+          "quota": 78,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 21.53,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 21.45,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HUHA-5",
+          "name": "Quản trị nhân lực",
+          "quota": 214,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.95,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 24.01,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.97,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HUHA-6",
+          "name": "Luật",
+          "quota": 246,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 24.1,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 24.12,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 24.05,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HUHA-7",
+          "name": "Công nghệ thông tin",
+          "quota": 188,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 23.48,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "A01",
+              "score": 23.57,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.62,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "HUHA-8",
+          "name": "Hành chính học",
+          "quota": 170,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "C00",
+              "score": 23.02,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "D01",
+              "score": 23.01,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CTUMP",
+      "name": "Đại học Y Dược Cần Thơ",
+      "type": "Công lập",
+      "location": "Cần Thơ",
+      "majors": [
+        {
+          "code": "CTUMP-1",
+          "name": "Y khoa",
+          "quota": 92,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.52,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-2",
+          "name": "Răng Hàm Mặt",
+          "quota": 137,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 26.04,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-3",
+          "name": "Y học dự phòng",
+          "quota": 115,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.91,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-4",
+          "name": "Y học cổ truyền",
+          "quota": 216,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 24.36,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-5",
+          "name": "Dược học",
+          "quota": 103,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "A00",
+              "score": 25.37,
+              "method": "THPT"
+            },
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 25.56,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-6",
+          "name": "Điều dưỡng",
+          "quota": 193,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.59,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-7",
+          "name": "Kỹ thuật xét nghiệm y học",
+          "quota": 195,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 23.46,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-8",
+          "name": "Kỹ thuật hình ảnh y học",
+          "quota": 151,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.97,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-9",
+          "name": "Kỹ thuật phục hồi chức năng",
+          "quota": 143,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 22.09,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-10",
+          "name": "Dinh dưỡng",
+          "quota": 115,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 21.87,
+              "method": "THPT"
+            }
+          ]
+        },
+        {
+          "code": "CTUMP-11",
+          "name": "Y tế công cộng",
+          "quota": 241,
+          "scores": [
+            {
+              "year": 2025,
+              "block": "B00",
+              "score": 21.55,
+              "method": "THPT"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
